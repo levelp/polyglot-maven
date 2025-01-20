@@ -72,7 +72,7 @@
       <dependency>
         <groupId>io.takari.polyglot</groupId>
         <artifactId>polyglot-atom</artifactId>
-        <version>0.1.20-SNAPSHOT</version>
+        <version>0.7.2</version>
       </dependency>
       <dependency>
         <groupId>io.takari.polyglot</groupId>
