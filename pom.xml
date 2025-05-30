@@ -67,7 +67,7 @@
       <dependency>
         <groupId>io.takari.polyglot</groupId>
         <artifactId>polyglot-groovy</artifactId>
-        <version>0.7.2</version>
+        <version>0.8.0</version>
       </dependency>
       <dependency>
         <groupId>io.takari.polyglot</groupId>
