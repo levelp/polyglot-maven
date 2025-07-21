@@ -87,7 +87,7 @@
       <dependency>
         <groupId>io.takari.polyglot</groupId>
         <artifactId>polyglot-xml</artifactId>
-        <version>0.8.0</version>
+        <version>0.8.1</version>
       </dependency>      
       <!-- We inline Maven's dependency management section to align dependency 
         versions from Maven's core -->
